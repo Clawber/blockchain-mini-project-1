@@ -9,8 +9,10 @@
 
 
 [ ] deploy smart contract
+  [ ] try limanet (ghostnet is down)
   [x] faucet
     [ ] get real tezos (faucet?)
+    [ ] try to deploy again
   [ ] deploy using https://better-call.dev/deploy
 
 
@@ -23,3 +25,6 @@ https://github.com/AnshuJalan/tezos-workshop-resources-2022
 
   Part 2
   https://www.youtube.com/watch?v=CCk5IO-IzZE&ab_channel=TZAPAC
+
+tezos wallet:
+tz1R9pPyNkNi4KYFRD1Tg52nvZRyqWEodTGe
