@@ -14,9 +14,6 @@
     [ ] get real tezos (faucet?)
     [ ] try to deploy again
 
-
-
-    
   [ ] deploy using https://better-call.dev/deploy
 
 
