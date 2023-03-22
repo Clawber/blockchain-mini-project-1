@@ -7,7 +7,6 @@
         validate, should only run when 
   [ ] ......    
 
-
 [ ] deploy smart contract
   [ ] try limanet (ghostnet is down)
   [x] faucet
